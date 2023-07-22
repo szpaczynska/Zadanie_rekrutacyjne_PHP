@@ -1,5 +1,5 @@
 <?php
-//ZADAANIE REKRUTACYJNE
+//ZADANIE REKRUTACYJNE
 //przypisanie danych z pliku csv do tablicy
 $csvArray = array_map('str_getcsv', file('php_internship_data.csv'));
 
